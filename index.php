@@ -60,9 +60,9 @@
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right">
 							<li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-							<li><a href="#">Space</a></li>
+							<li><a href="#">About Space</a></li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Destinations <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="#">Mars</a></li>
 									<li><a href="#">The Sun</a></li>
@@ -76,11 +76,15 @@
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
-			</nav>
-
+			</nav><!-- /.navigation bar -->
 
 			<!-- HEADER -->
 			<header>
+				<div class="jumbotron">
+					<h1 class="text-center">Welcome!</h1>
+					<p class="text-center">Where do you want to travel?</p>
+					<p class="text-center"><a class="btn btn-primary btn-lrg" href="#" role="button">We will pick for you!</a></p>
+				</div>
 
 			</header>
 

@@ -47,7 +47,12 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
+						<!-- <nav class="navbar navbar-light bg-faded">
+							<a class="navbar-brand" href="#">
 
+							</a>
+						</nav> -->
+						<a class="navbar-brand" href="#"><img src="images/spacex.png" alt="space x" width="250" height="25" align="left"/></a>
 						<p class="navbar-text">Taking you to outer spacey places</p>
 					</div>
 

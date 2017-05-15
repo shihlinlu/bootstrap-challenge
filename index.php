@@ -85,12 +85,28 @@
 					<p class="text-center">Where do you want to travel?</p>
 					<p class="text-center"><a class="btn btn-primary btn-lrg" href="#" role="button">We will pick for you!</a></p>
 				</div>
-
 			</header>
 
 			<!-- MAIN PAGE CONTENT -->
+			<main>
+				<div class="container">
+					<div class="row featurette">
+						<div class="col-md-7 col-md-push-5">
+							<h2 class="featurette-heading">
+								We make space travel a delight.
+							</h2>
+							<p class="lead">Traveling to space is totally different from traveling on Earth. You want to explore Mars now, not in May 2030. Your burning curiosity of learning what's out in space is cured by discovering other human-like species, trees, and oceans. Our dedicated space travel hosts plan your trip that includes round trip flights from our spaceport to your destination, unlimited food and drinks, anti-collision spacesuits, and comfortable accomadations thanks to SpaceBnb. Take a look around, you'll discover the beauty and violent delights of exhilarating space vacations.</p>
+						</div>
+						<div class="col-md-5 col-md-pull-7">
+							<img class="featurette-image img-responsive center-block" data-src="holder.js/400x400/auto"  alt="space travel" src="images/spacex.png" data-holder-rendered="true">
+						</div>
 
+					</div><!-- /.row featurette -->
+					<hr class="featurette-divider">
 
+				</div>
+
+			</main>
 		</div><!-- end of sfooter-content-->
 		<!-- FOOTER -->
 		<footer>

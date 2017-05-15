@@ -131,12 +131,12 @@
 				</div>
 			</main>
 		</div><!-- end of sfooter-content-->
+		<hr class="featurette-divider">
 		<!-- FOOTER -->
-		<footer>
-			<div class="container">
-
-			</div>
-
-		</footer>
+			<footer class="text-center">
+				<div>
+					<p>&copy; 2017 SpaceX Travel   </p>
+				</div>
+			</footer><!-- /.footer -->
 	</body>
 </html>

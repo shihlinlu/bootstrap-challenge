@@ -95,17 +95,40 @@
 							<h2 class="featurette-heading">
 								We make space travel a delight.
 							</h2>
-							<p class="lead">Traveling to space is totally different from traveling on Earth. You want to explore Mars now, not in May 2030. Your burning curiosity of learning what's out in space is cured by discovering other human-like species, trees, and oceans. Our dedicated space travel hosts plan your trip that includes round trip flights from our spaceport to your destination, unlimited food and drinks, anti-collision spacesuits, and comfortable accomadations thanks to SpaceBnb. Take a look around, you'll discover the beauty and violent delights of exhilarating space vacations.</p>
+							<p class="lead">Traveling to space is totally different from traveling on Earth. You want to explore Mars now, not in May 2030. Your burning curiosity of learning what's out in space is cured by discovering other human-like species, trees, and oceans. Our dedicated space travel hosts and plan your trip with no details left behind. Take a look around, you'll discover the beauty and violent delights of exhilarating space travel.</p>
 						</div>
 						<div class="col-md-5 col-md-pull-7">
-							<img class="featurette-image img-responsive center-block" data-src="holder.js/400x400/auto"  alt="space travel" src="images/spaceport.png" data-holder-rendered="true">
+							<img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto"  alt="space travel" src="images/spaceport.jpg" data-holder-rendered="true">
 						</div>
 
 					</div><!-- /.row featurette -->
 					<hr class="featurette-divider">
+					<div class="row">
+						<div class="col-md-3 col-sm-6">
+							<img class="img-circle" src="images/rocket.jpg" alt="space rocket" width="160" height="160">
+							<h2>Fly</h2>
+							<p>All trips include round trip space flights, so rest assured that you'll return to your house on Earth with no concerns.</p>
+						</div><!-- /.col-md-3 col-sm-6 -->
 
+						<div class="col-md-3 col-sm-6">
+							<img class="img-circle" src="images/broccoli.jpg" alt="space broccoli" width="160" height="160">
+							<h2>Eat</h2>
+							<p>Wondering what food you'll eat in space? We have a plethora of options including broccoli, pasta, raspberries, and much more. The only difference is they are injected with space-preserving properties.</p>
+						</div><!-- /.col-md-3 col-sm-6 -->
+
+						<div class="col-md-3 col-sm-6">
+							<img class="img-circle" src="images/space-flag2.jpg" alt="space flag" width="160" height="160">
+							<h2>Explore</h2>
+							<p>Part of the human spirit is to wander. All of our destinations have a vast landscape ranging from rocks, trees, and even oceans. Go ahead and take a big jump with your spacesuit and Earth flags.</p>
+						</div><!-- /.col-md-3 col-sm-6 -->
+
+						<div class="col-md-3 col-sm-6">
+							<img class="img-cirlce" src="images/space-hotel.jpg" alt="space hotel" width="160" height="160">
+							<h2>Rejuvenate</h2>
+							<p>Walking around in a spacesuit all day can be tiring both mentally and physically. One hour of exploration on Mars is equivalent to a half-marathon run. Our spacious, 5 star space hotel includes all the amenities you expect and plenty of oxygen.</p>
+						</div><!-- /.col-md-3 col-sm-6 -->
+					</div><!-- /.row -->
 				</div>
-
 			</main>
 		</div><!-- end of sfooter-content-->
 		<!-- FOOTER -->

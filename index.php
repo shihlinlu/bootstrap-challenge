@@ -129,7 +129,7 @@
 						</div><!-- /.col-md-3 col-sm-6 -->
 					</div><!-- /.row -->
 				</div>
-			</main>
+			</main><!-- /.main -->
 		</div><!-- end of sfooter-content-->
 		<hr class="featurette-divider">
 		<!-- FOOTER -->

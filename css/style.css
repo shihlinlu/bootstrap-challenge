@@ -17,6 +17,7 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 
+/* Custom CSS */
 
 .jumbotron {
 	margin-bottom:50px;
@@ -30,4 +31,10 @@ body { width: 100%;}
 
 .featurette-divider {
 	margin: 80px;
+}
+
+img[alt="spacex"] {
+	width: 250px;
+	height: 25px;
+	float: left;
 }

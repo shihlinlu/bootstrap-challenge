@@ -32,10 +32,12 @@
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<title>SpaceX Travel</title>
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-
+			<!-- HEADER -->
+			<header>
 			<!-- NAVIGATION BAR -->
 			<nav class="navbar navbar-default">
 				<div class="container-fluid">
@@ -52,7 +54,7 @@
 
 							</a>
 						</nav> -->
-						<a class="navbar-brand" href="#"><img src="images/spacex.png" alt="space x" width="250" height="25" align="left"/></a>
+						<a class="navbar-brand" href="#"><img src="images/spacex.png" alt="spacex"/></a>
 						<p class="navbar-text">Taking you to outer spacey places</p>
 					</div>
 
@@ -78,14 +80,12 @@
 				</div><!-- /.container-fluid -->
 			</nav><!-- /.navigation bar -->
 
-			<!-- HEADER -->
-			<header>
 				<div class="jumbotron">
 					<h1 class="text-center">Welcome!</h1>
 					<p class="text-center">Where do you want to travel?</p>
 					<p class="text-center"><a class="btn btn-primary btn-lrg" href="#" role="button">We will pick for you!</a></p>
 				</div>
-			</header>
+			</header><!-- /.header -->
 
 			<!-- MAIN PAGE CONTENT -->
 			<main>
